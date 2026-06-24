@@ -1,0 +1,9 @@
+{
+  "name": "earlspade-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend function for earlspade.com checkout (Stripe Checkout Session creation)",
+  "dependencies": {
+    "stripe": "^16.0.0"
+  }
+}
